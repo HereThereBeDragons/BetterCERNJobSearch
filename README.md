@@ -6,6 +6,8 @@ Better search for keywords and filtering for contract type and grade (for Staff)
 
 ## How to use
 
+0) If needed: adjust path to Firefox/Geckodriver: `better_search_cern_careers.py` lines 12
+
 1) Edit in `better_search_cern_careers.py` lines 19 - 25 to fit your needs
 ```
 contract = "-LD" #-LD, -GRAP, ....
